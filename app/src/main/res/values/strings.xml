@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FQ system</string>
+    <string name="notQueued"><![CDATA[Current queue:46 (62) \nYour queue: -  \nEstimated wait time: <10 minuties]]></string>
+    <string name="queued"><![CDATA[Current queue:46 (62) \nYour queue: 62  \nEstimated wait time: <10 minuties]]></string>
+    <string name="rest_name1">"Maxim's Palace (Sha Tin)"</string>,
+    <string name="rest_name2">Jade Garden (Tai wo plaza)</string>,
+    <string name="rest_name3">Kentucky Fried Chicken (Amoy Plaza)</string>,
+    <string name="rest_name4">Pizza Hut (AIA HK)</string>,
+    <string name="rest_name5">Kousoku Genki (Dragon Centre)</string>
+</resources>
